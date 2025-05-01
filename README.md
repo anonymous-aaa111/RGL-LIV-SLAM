@@ -10,9 +10,21 @@ raw video_demo can be downloaded from here: [Click to download](https://github.c
 
 ![Video demo](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/video_demo.gif)
 
-## Indoor Scene Comparison
+## Adability for initial deviation
 
-The effect of the proposed algorithm with and without OAGS in an indoor scene is shown below:
+We evaluated the robustness of the proposed method under the condition of initial position deviation and heading deviation, examples of which are shown as below:
+
+Initial position deviation of 50m:
+Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_pisition_deviation.avi)
+![Initial Position Deviation](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_position_deviation.gif)
+
+Initial heading deviation of 6 degree:
+Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_heading_deviation.avi)
+![Initial Heading Deviation](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_heading_deviation.gif)
+
+## Adability for indoor scene
+
+The proposed method can adapt to indoor environment, where the referenced image is not feasible, due to the application of OAGS mechanism.
 
 Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/indoor.avi)
 
