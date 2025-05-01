@@ -5,8 +5,10 @@ RGL-LIV-SLAM proposed a real-time global localization method which only relies o
 The proposed method enables long-range navigation without requiring GPS or loop closure, while eliminating accumulated localization errors.
 
 An example on NCLT dataset squence 2012-02-04 is shown below:
-![Video demo](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/video_demo.avi)
+
 raw video_demo can be downloaded from here: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/video_demo.avi)
+
+![Video demo](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/video_demo.gif)
 
 ## Indoor Scene Comparison
 
