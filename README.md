@@ -16,8 +16,8 @@ raw video_demo can be downloaded from here: [Click to download](https://github.c
 
 We evaluated the robustness of the proposed method under the condition of initial position deviation and heading deviation, examples of which are shown as below:
 
-### Initial position deviation of 50m:
-Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_pisition_deviation.avi)
+### Initial position deviation of 60m:
+Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_position_deviation.avi)
 ![Initial Position Deviation](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/initial_position_deviation.gif)
 
 ### Initial heading deviation of 6 degree:
@@ -26,7 +26,8 @@ Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-S
 
 ## Adability for indoor scene
 
-The proposed method can adapt to indoor environment, where the referenced image is not feasible, due to the application of OAGS mechanism.
+When the platform enters an indoor environment, the erroneous position observations from image matching may lead to significant localization errors, but the proposed OAGS 
+mechanism effectively suppressed this.
 
 Video demonstration: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/videos/indoor.avi)
 
