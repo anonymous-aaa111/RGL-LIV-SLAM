@@ -6,7 +6,7 @@ The proposed method enables long-range navigation without requiring GPS or loop 
 
 An example on NCLT dataset squence 2012-02-04 is shown below:
 
-raw video_demo can be downloaded from here: [Click to download](https://github.com/yao-yating/RGL-LIV-SLAM/blob/main/video_demo.avi)
+raw video_demo can be downloaded from here: [Click to download](https://github.com/anonymous-aaa111/RGL-LIV-SLAM/blob/main/videos/video_demo.avi)
 
 ![Video demo](https://github.com/anonymous-aaa111/RGL-LIV-SLAM/blob/main/videos/video_demo.gif)
 
